@@ -4,9 +4,9 @@ NvmeUsbQuickCheckTool - Plugin and Check ( with external interface via USB)
 The files need to be compieled to get the .exe file
 
 You will need the following software installed (all from MS)
-.NET SDK 8.0 & PowerShell
+- .NET SDK 8.0 and PowerShell
 
-Build-Comand: powershell -ExecutionPolicy Bypass -File .\Build-Standalone.ps1
+Build-Comand: powershell -ExecutionPolicy Bypass -File .\Build-Standalone.ps1  
 Finished build will be in this subfolder: ../publish\win-x64-standalone\NvmeUsbQuickCheck.exe
 
 Setup instructions: tools folder
