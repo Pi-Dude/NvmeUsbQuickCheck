@@ -1,5 +1,5 @@
 # NvmeUsbQuickCheck
-NvmeUsbQuickCheckTool - Plugin and Check
+NvmeUsbQuickCheckTool - Plugin and Check ( with external interface via USB)
 
 
 Setup instructions: tools folder
